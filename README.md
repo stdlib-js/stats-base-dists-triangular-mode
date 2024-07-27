@@ -67,7 +67,7 @@ The [mode][mode] for a [triangular][triangular-distribution] random variable wit
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-mode@v0.2.2-esm/index.mjs';
 ```
 
 #### mode( a, b, c )
@@ -138,7 +138,7 @@ y = mode( 0.0, -1.0, 0.5 );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-triangular-mode@v0.2.2-esm/index.mjs';
 
 var a;
 var b;
