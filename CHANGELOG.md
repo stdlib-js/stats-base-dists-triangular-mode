@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-24)
+## Unreleased (2025-01-12)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`97c434d`](https://github.com/stdlib-js/stdlib/commit/97c434de1ac819d4f616202b10ebdce3970a76d8) - **chore:** directly draw from the desired distribution instead of adding constants _(by Philipp Burckhardt)_
 -   [`b7867cb`](https://github.com/stdlib-js/stdlib/commit/b7867cbb3a4fc453e19203794402c36f19b264fd) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`603c766`](https://github.com/stdlib-js/stdlib/commit/603c76686fc8de480628e5b96efd9733b1f059b5) - **test:** only conditionally run tests _(by Philipp Burckhardt)_
 -   [`daf43b2`](https://github.com/stdlib-js/stdlib/commit/daf43b2052a0ad89fa4c72caee6d7caedcc4cc38) - **feat:** add C implementation for `stats/base/dists/triangular/mode` [(#4008)](https://github.com/stdlib-js/stdlib/pull/4008) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
